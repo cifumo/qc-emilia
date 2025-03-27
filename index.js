@@ -1,4 +1,4 @@
-global.botToken = "6187457009:AAEwT3PNOd7tIKk7A9d2Rje0p4H00JuESz0"
+global.botToken = "7621418149:AAEHApTpHLuug5cfHIDOz9Dbz_1OhWopptA"
 require('./app')
 
 process.on("unhandledRejection", (reason) => {
